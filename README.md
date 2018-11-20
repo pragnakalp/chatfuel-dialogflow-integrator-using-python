@@ -26,6 +26,6 @@
 
 7. That's it, now you can test your NLU powered chatbot on messenger.
 
-![Messenger](https://raw.githubusercontent.com/pragnakalp/chatfuel-dialogflow-integrator-using-python/master/images/chatfuel_set.png)
+![Messenger](https://raw.githubusercontent.com/pragnakalp/chatfuel-dialogflow-integrator-using-python/master/images/messenger_test.png)
 
 > Developed by [Pragnakalp Solutions ](https://pragnakalp.com/) - AI, ML, Chatbots, Python Development, Node JS Solutions
