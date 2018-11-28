@@ -28,4 +28,4 @@
 
 ![Messenger](https://raw.githubusercontent.com/pragnakalp/chatfuel-dialogflow-integrator-using-python/master/images/messenger_test.png)
 
-> Developed by [Pragnakalp Solutions ](https://pragnakalp.com/) - AI, ML, Chatbots, Python Development, Node JS Solutions
+> Developed by [Pragnakalp Solutions - AI, ML, Chatbots, Python Development, Node JS Solutions](https://pragnakalp.com/)
